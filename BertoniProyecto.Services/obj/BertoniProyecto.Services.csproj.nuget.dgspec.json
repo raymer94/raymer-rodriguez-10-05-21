@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Raymer\\Desktop\\BertoniMiniProyecto\\BertoniProyecto\\BertoniProyecto.Services\\BertoniProyecto.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Raymer\\Desktop\\BertoniMiniProyecto\\BertoniProyecto\\BertoniProyecto.Entities\\BertoniProyecto.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Raymer\\Desktop\\BertoniMiniProyecto\\BertoniProyecto\\BertoniProyecto.Entities\\BertoniProyecto.Entities.csproj",
+        "projectName": "BertoniProyecto.Entities",
+        "projectPath": "C:\\Users\\Raymer\\Desktop\\BertoniMiniProyecto\\BertoniProyecto\\BertoniProyecto.Entities\\BertoniProyecto.Entities.csproj",
+        "packagesPath": "C:\\Users\\Raymer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Raymer\\Desktop\\BertoniMiniProyecto\\BertoniProyecto\\BertoniProyecto.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Raymer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Raymer\\Desktop\\BertoniMiniProyecto\\BertoniProyecto\\BertoniProyecto.Services\\BertoniProyecto.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Raymer\\Desktop\\BertoniMiniProyecto\\BertoniProyecto\\BertoniProyecto.Services\\BertoniProyecto.Services.csproj",
+        "projectName": "BertoniProyecto.Services",
+        "projectPath": "C:\\Users\\Raymer\\Desktop\\BertoniMiniProyecto\\BertoniProyecto\\BertoniProyecto.Services\\BertoniProyecto.Services.csproj",
+        "packagesPath": "C:\\Users\\Raymer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Raymer\\Desktop\\BertoniMiniProyecto\\BertoniProyecto\\BertoniProyecto.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Raymer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Raymer\\Desktop\\BertoniMiniProyecto\\BertoniProyecto\\BertoniProyecto.Entities\\BertoniProyecto.Entities.csproj": {
+                "projectPath": "C:\\Users\\Raymer\\Desktop\\BertoniMiniProyecto\\BertoniProyecto\\BertoniProyecto.Entities\\BertoniProyecto.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

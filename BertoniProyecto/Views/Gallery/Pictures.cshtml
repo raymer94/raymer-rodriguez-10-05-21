@@ -1,0 +1,142 @@
+﻿@model IEnumerable<BertoniProyecto.Models.PhotoViewModel>
+
+@{
+    ViewData["Title"] = "Pictures";
+}
+
+<h1>Pictures</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.AlbumId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Url)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ThumbnailUrl)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.AlbumId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Title)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Url)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ThumbnailUrl)
+                </td>
+                <td>
+                    <button class="btn btn-info ml-auto" onclick="ShowComment(@Html.DisplayFor(modelItem => item.Id))">Ver comentarios</button>
+                </td>
+                <td>
+                    <table class="table row comment" id="commentId_@Html.DisplayFor(modelItem => item.Id)">
+                        <thead class="thead-dark">
+                            <tr>
+                                <th>
+                                    PostId
+                                </th>
+                                <th>
+                                    Id
+                                </th>
+                                <th>
+                                    Name
+                                </th>
+                                <th>
+                                    Email
+                                </th>
+                                <th>
+                                    Body
+                                </th>
+                                <th></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var itemComent in item.Comments)
+                            {
+                                <tr>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => itemComent.PostId)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => itemComent.Id)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => itemComent.Name)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => itemComent.Email)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => itemComent.Body)
+                                    </td>
+                                </tr>
+
+                            }
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<style>
+    .comment {
+        display: none;
+        margin-left: -1075px;
+        margin-top: 155px;
+        animation: fadeIn 4s;
+        -webkit-animation: fadeIn 4s;
+        -moz-animation: fadeIn 4s;
+        -o-animation: fadeIn 4s;
+    }
+
+    @@keyframes fadeIn {
+        0% {
+            opacity: 0
+        }
+
+        100% {
+            opacity: 1;
+        }
+    }
+
+    .table {
+        width: auto;
+    }
+</style>
+
+<script>
+    function ShowComment(commentId) {
+
+        var getCommentStyle = document.querySelector('#commentId_' + commentId);
+        var pseudoElementStyle = getComputedStyle(getCommentStyle).display;
+
+        if (pseudoElementStyle == "block") {
+            document.getElementById("commentId_" + commentId).style.display = "none";
+
+        } else document.getElementById("commentId_" + commentId).style.display = "block";
+
+    }
+</script>

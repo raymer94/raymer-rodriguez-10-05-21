@@ -1,0 +1,12 @@
+C:\Users\Raymer\Desktop\BertoniMiniProyecto\BertoniProyecto\BertoniProyecto.Services\bin\Debug\netcoreapp3.1\BertoniProyecto.Entities.dll
+C:\Users\Raymer\Desktop\BertoniMiniProyecto\BertoniProyecto\BertoniProyecto.Services\obj\Debug\netcoreapp3.1\BertoniProyecto.Services.csprojAssemblyReference.cache
+C:\Users\Raymer\Desktop\BertoniMiniProyecto\BertoniProyecto\BertoniProyecto.Services\obj\Debug\netcoreapp3.1\BertoniProyecto.Services.AssemblyInfoInputs.cache
+C:\Users\Raymer\Desktop\BertoniMiniProyecto\BertoniProyecto\BertoniProyecto.Services\obj\Debug\netcoreapp3.1\BertoniProyecto.Services.AssemblyInfo.cs
+C:\Users\Raymer\Desktop\BertoniMiniProyecto\BertoniProyecto\BertoniProyecto.Services\bin\Debug\netcoreapp3.1\BertoniProyecto.Services.deps.json
+C:\Users\Raymer\Desktop\BertoniMiniProyecto\BertoniProyecto\BertoniProyecto.Services\bin\Debug\netcoreapp3.1\BertoniProyecto.Services.dll
+C:\Users\Raymer\Desktop\BertoniMiniProyecto\BertoniProyecto\BertoniProyecto.Services\bin\Debug\netcoreapp3.1\BertoniProyecto.Services.pdb
+C:\Users\Raymer\Desktop\BertoniMiniProyecto\BertoniProyecto\BertoniProyecto.Services\bin\Debug\netcoreapp3.1\BertoniProyecto.Entities.pdb
+C:\Users\Raymer\Desktop\BertoniMiniProyecto\BertoniProyecto\BertoniProyecto.Services\obj\Debug\netcoreapp3.1\BertoniProyecto.Services.csproj.CoreCompileInputs.cache
+C:\Users\Raymer\Desktop\BertoniMiniProyecto\BertoniProyecto\BertoniProyecto.Services\obj\Debug\netcoreapp3.1\BertoniProyecto.Services.csproj.CopyComplete
+C:\Users\Raymer\Desktop\BertoniMiniProyecto\BertoniProyecto\BertoniProyecto.Services\obj\Debug\netcoreapp3.1\BertoniProyecto.Services.dll
+C:\Users\Raymer\Desktop\BertoniMiniProyecto\BertoniProyecto\BertoniProyecto.Services\obj\Debug\netcoreapp3.1\BertoniProyecto.Services.pdb
