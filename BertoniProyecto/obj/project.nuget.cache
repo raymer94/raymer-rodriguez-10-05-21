@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4Wt8V68B5xH2K/443zAF4eBAOBzODPUpOIFx1/sw+6ZQNXJxSsTWIEbL6YATTtSjkHWo1DwwFYh9pVtmXgIUfg==",
+  "dgSpecHash": "3fl/XIfRKkDe2wVpRenVEdZfZxKvMjQ2EVF+cayA8cX/cyCfSNWgsOawEHJ1lQgwilbN0eqQSrE4j6iR7RQSSw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Raymer\\Desktop\\BertoniMiniProyecto\\BertoniProyecto\\BertoniProyecto\\BertoniProyecto.csproj",
+  "projectFilePath": "C:\\Users\\Raymer\\Desktop\\raymer-rodriguez-10-05-21\\raymer-rodriguez-10-05-21\\BertoniProyecto\\BertoniProyecto.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Raymer\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Raymer\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

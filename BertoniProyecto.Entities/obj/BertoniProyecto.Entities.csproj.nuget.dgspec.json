@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Raymer\\Desktop\\BertoniMiniProyecto\\BertoniProyecto\\BertoniProyecto.Entities\\BertoniProyecto.Entities.csproj": {}
+    "C:\\Users\\Raymer\\Desktop\\raymer-rodriguez-10-05-21\\raymer-rodriguez-10-05-21\\BertoniProyecto.Entities\\BertoniProyecto.Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Raymer\\Desktop\\BertoniMiniProyecto\\BertoniProyecto\\BertoniProyecto.Entities\\BertoniProyecto.Entities.csproj": {
+    "C:\\Users\\Raymer\\Desktop\\raymer-rodriguez-10-05-21\\raymer-rodriguez-10-05-21\\BertoniProyecto.Entities\\BertoniProyecto.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Raymer\\Desktop\\BertoniMiniProyecto\\BertoniProyecto\\BertoniProyecto.Entities\\BertoniProyecto.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Raymer\\Desktop\\raymer-rodriguez-10-05-21\\raymer-rodriguez-10-05-21\\BertoniProyecto.Entities\\BertoniProyecto.Entities.csproj",
         "projectName": "BertoniProyecto.Entities",
-        "projectPath": "C:\\Users\\Raymer\\Desktop\\BertoniMiniProyecto\\BertoniProyecto\\BertoniProyecto.Entities\\BertoniProyecto.Entities.csproj",
+        "projectPath": "C:\\Users\\Raymer\\Desktop\\raymer-rodriguez-10-05-21\\raymer-rodriguez-10-05-21\\BertoniProyecto.Entities\\BertoniProyecto.Entities.csproj",
         "packagesPath": "C:\\Users\\Raymer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Raymer\\Desktop\\BertoniMiniProyecto\\BertoniProyecto\\BertoniProyecto.Entities\\obj\\",
+        "outputPath": "C:\\Users\\Raymer\\Desktop\\raymer-rodriguez-10-05-21\\raymer-rodriguez-10-05-21\\BertoniProyecto.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

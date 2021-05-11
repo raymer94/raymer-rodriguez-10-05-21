@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ano/we7NZWNL6Ev6KfhL2Um8wWplBPEN1IohZDrBWwUSiRDd2hg6hDuqHs9nyAGYm+OfiFO7WruAZdlxOSWwTQ==",
+  "dgSpecHash": "c9j/pwu8QJCGCBSyLy5GKO8FrsCIQCN2J+SYC6BzS8sowHvYE6EIjqUFepO2pgRhqnrYjxbUzwv0+B8zYcYkBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Raymer\\Desktop\\BertoniMiniProyecto\\BertoniProyecto\\BertoniProyecto.Services\\BertoniProyecto.Services.csproj",
+  "projectFilePath": "C:\\Users\\Raymer\\Desktop\\raymer-rodriguez-10-05-21\\raymer-rodriguez-10-05-21\\BertoniProyecto.Services\\BertoniProyecto.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Raymer\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
     "C:\\Users\\Raymer\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",

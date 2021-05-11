@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Raymer\\Desktop\\BertoniMiniProyecto\\BertoniProyecto\\BertoniProyecto.Services\\BertoniProyecto.Services.csproj": {}
+    "C:\\Users\\Raymer\\Desktop\\raymer-rodriguez-10-05-21\\raymer-rodriguez-10-05-21\\BertoniProyecto.Services\\BertoniProyecto.Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Raymer\\Desktop\\BertoniMiniProyecto\\BertoniProyecto\\BertoniProyecto.Entities\\BertoniProyecto.Entities.csproj": {
+    "C:\\Users\\Raymer\\Desktop\\raymer-rodriguez-10-05-21\\raymer-rodriguez-10-05-21\\BertoniProyecto.Entities\\BertoniProyecto.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Raymer\\Desktop\\BertoniMiniProyecto\\BertoniProyecto\\BertoniProyecto.Entities\\BertoniProyecto.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Raymer\\Desktop\\raymer-rodriguez-10-05-21\\raymer-rodriguez-10-05-21\\BertoniProyecto.Entities\\BertoniProyecto.Entities.csproj",
         "projectName": "BertoniProyecto.Entities",
-        "projectPath": "C:\\Users\\Raymer\\Desktop\\BertoniMiniProyecto\\BertoniProyecto\\BertoniProyecto.Entities\\BertoniProyecto.Entities.csproj",
+        "projectPath": "C:\\Users\\Raymer\\Desktop\\raymer-rodriguez-10-05-21\\raymer-rodriguez-10-05-21\\BertoniProyecto.Entities\\BertoniProyecto.Entities.csproj",
         "packagesPath": "C:\\Users\\Raymer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Raymer\\Desktop\\BertoniMiniProyecto\\BertoniProyecto\\BertoniProyecto.Entities\\obj\\",
+        "outputPath": "C:\\Users\\Raymer\\Desktop\\raymer-rodriguez-10-05-21\\raymer-rodriguez-10-05-21\\BertoniProyecto.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\Raymer\\Desktop\\BertoniMiniProyecto\\BertoniProyecto\\BertoniProyecto.Services\\BertoniProyecto.Services.csproj": {
+    "C:\\Users\\Raymer\\Desktop\\raymer-rodriguez-10-05-21\\raymer-rodriguez-10-05-21\\BertoniProyecto.Services\\BertoniProyecto.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Raymer\\Desktop\\BertoniMiniProyecto\\BertoniProyecto\\BertoniProyecto.Services\\BertoniProyecto.Services.csproj",
+        "projectUniqueName": "C:\\Users\\Raymer\\Desktop\\raymer-rodriguez-10-05-21\\raymer-rodriguez-10-05-21\\BertoniProyecto.Services\\BertoniProyecto.Services.csproj",
         "projectName": "BertoniProyecto.Services",
-        "projectPath": "C:\\Users\\Raymer\\Desktop\\BertoniMiniProyecto\\BertoniProyecto\\BertoniProyecto.Services\\BertoniProyecto.Services.csproj",
+        "projectPath": "C:\\Users\\Raymer\\Desktop\\raymer-rodriguez-10-05-21\\raymer-rodriguez-10-05-21\\BertoniProyecto.Services\\BertoniProyecto.Services.csproj",
         "packagesPath": "C:\\Users\\Raymer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Raymer\\Desktop\\BertoniMiniProyecto\\BertoniProyecto\\BertoniProyecto.Services\\obj\\",
+        "outputPath": "C:\\Users\\Raymer\\Desktop\\raymer-rodriguez-10-05-21\\raymer-rodriguez-10-05-21\\BertoniProyecto.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -90,8 +90,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Raymer\\Desktop\\BertoniMiniProyecto\\BertoniProyecto\\BertoniProyecto.Entities\\BertoniProyecto.Entities.csproj": {
-                "projectPath": "C:\\Users\\Raymer\\Desktop\\BertoniMiniProyecto\\BertoniProyecto\\BertoniProyecto.Entities\\BertoniProyecto.Entities.csproj"
+              "C:\\Users\\Raymer\\Desktop\\raymer-rodriguez-10-05-21\\raymer-rodriguez-10-05-21\\BertoniProyecto.Entities\\BertoniProyecto.Entities.csproj": {
+                "projectPath": "C:\\Users\\Raymer\\Desktop\\raymer-rodriguez-10-05-21\\raymer-rodriguez-10-05-21\\BertoniProyecto.Entities\\BertoniProyecto.Entities.csproj"
               }
             }
           }
